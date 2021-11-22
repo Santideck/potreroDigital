@@ -1,0 +1,55 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* INDEX */
+ .nav-item{
+   justify-content: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-size: auto;
+}
+.img{
+ height: auto;
+  width: 100%;
+  margin: auto;
+  padding: 100%;
+  text-align: center;
+  }
+
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    padding-left: 45%;
+}
+.pnosotros{
+
+  color: brown;
+
+}
+/* FOOTER */
+footer{
+    display: flex;
+    justify-content:flex-end; 
+}
+
+.logo{
+    justify-content: center;
+}
+/* NOSOTROS */
+.bodynosotros{
+    background:aliceblue;
+}
+/* CONTACTO */
+.pcontacto{
+ color:black;
+ size: 100px;   
+}
+.bodycontacto{
+    /* background:coral; */
+}
